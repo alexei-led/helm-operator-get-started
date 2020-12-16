@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: alexeiled/podinfo
-      tag: dev-nyuxzmfd
+      tag: dev-zztwjxyr
     replicaCount: 1
     hpa:
       enabled: false
